@@ -9,7 +9,7 @@ The system retrieves relevant sections from the document and uses a Large Langua
 
 A short demo video showing how the chatbot works.
 
-![Demo](demo/rag_demo.mp4)
+![RAG Chatbot Demo](demo/rag_demo.gif)
 ---
 
 ## 🚀 Features
