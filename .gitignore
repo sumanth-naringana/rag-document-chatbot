@@ -9,3 +9,12 @@ wheels/
 # Virtual environments
 .venv
 data/documents/*
+# IDE
+.idea/
+.vscode/
+
+# Environment files
+.env
+
+# OS
+.DS_Store
